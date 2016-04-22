@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Linq;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
 using MathNet.Numerics.LinearAlgebra;
 using MathNet.Numerics.LinearAlgebra.Double;
-//using System.Web.UI.DataVisualization.Charting;
 
 /*
     Usage:          The Transform3D class takes in two sets of 3D points and calculates the best-fit transform and fit error RMS.  

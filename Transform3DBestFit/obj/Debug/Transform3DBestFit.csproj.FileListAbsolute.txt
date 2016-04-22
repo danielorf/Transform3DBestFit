@@ -5,3 +5,9 @@ C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFit\Transform3DBestFit\bi
 C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFit\Transform3DBestFit\obj\Debug\Transform3DBestFit.csprojResolveAssemblyReference.cache
 C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFit\Transform3DBestFit\obj\Debug\Transform3DBestFit.dll
 C:\Users\danielo\Dropbox\Programming\C#\Transform3DBestFit\Transform3DBestFit\obj\Debug\Transform3DBestFit.pdb
+C:\Users\danielo\Dropbox\Programming\C#\3DBestFitConsoleApp\Transform3DBestFit\Transform3DBestFit\bin\Debug\Transform3DBestFit.dll
+C:\Users\danielo\Dropbox\Programming\C#\3DBestFitConsoleApp\Transform3DBestFit\Transform3DBestFit\bin\Debug\Transform3DBestFit.pdb
+C:\Users\danielo\Dropbox\Programming\C#\3DBestFitConsoleApp\Transform3DBestFit\Transform3DBestFit\bin\Debug\MathNet.Numerics.dll
+C:\Users\danielo\Dropbox\Programming\C#\3DBestFitConsoleApp\Transform3DBestFit\Transform3DBestFit\bin\Debug\MathNet.Numerics.xml
+C:\Users\danielo\Dropbox\Programming\C#\3DBestFitConsoleApp\Transform3DBestFit\Transform3DBestFit\obj\Debug\Transform3DBestFit.dll
+C:\Users\danielo\Dropbox\Programming\C#\3DBestFitConsoleApp\Transform3DBestFit\Transform3DBestFit\obj\Debug\Transform3DBestFit.pdb
