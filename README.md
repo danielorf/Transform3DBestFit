@@ -1,6 +1,6 @@
 Transform3D class used to calculate best fit 3D transform between two sets of cartesian (X,Y,Z) points.
 4x4 Transform matrix, 6DoF vector, Siemens NC style 6DoF vector, 4x4 Rotation matrix, 4x4 Translation matrix, fit error RMS and Rotation matrix determinant.
-This project relies on the Math.Net Numerics library.
+This project relies on the Math.Net Numerics library.  License info contained in Transform3D.cs.
 
 
     Usage:          The Transform3D class takes in two sets of 3D points and calculates the best-fit transform and fit error RMS.  
